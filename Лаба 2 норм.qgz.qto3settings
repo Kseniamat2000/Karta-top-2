@@ -1,0 +1,671 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "1_f07360ed_1939_45a6_ad92_9cf4a8d89ef9": {
+        "enabled": true,
+        "groups": []
+      },
+      "22_479a4caf_e588_43fd_8664_f1e961cfe32c": {
+        "enabled": true,
+        "groups": []
+      },
+      "2______db312dca_15b3_4ccb_a5dc_cf470e5df583": {
+        "enabled": true,
+        "groups": []
+      },
+      "33_6c2193d5_0be1_4fb8_a77d_6b7208446b1b": {
+        "enabled": true,
+        "groups": []
+      },
+      "3______044d333b_e202_473a_aab7_04f28956669d": {
+        "enabled": true,
+        "groups": []
+      },
+      "4______15ce6ad5_c85f_477a_9b78_3c9fbd441da2": {
+        "enabled": true,
+        "groups": []
+      },
+      "5______fd7b8a72_f871_49cb_a3c6_83e3d64c3e76": {
+        "enabled": true,
+        "groups": []
+      },
+      "6______e24dda53_96c9_48d2_b9f5_b186bdbac67d": {
+        "enabled": true,
+        "groups": []
+      },
+      "OUTPUT_c87dda8e_f0f2_4d32_afa5_366c18764690": {
+        "enabled": true,
+        "groups": []
+      },
+      "_______________1375fc15_557f_4120_ab5f_1f0fd58a1675": {
+        "enabled": true,
+        "groups": []
+      },
+      "_______________24452080_a7a6_40bb_a7ee_3927452c7ac3": {
+        "enabled": true,
+        "groups": []
+      },
+      "_______________2f9229ea_b943_444e_b408_b027d83ad0d1": {
+        "enabled": true,
+        "groups": []
+      },
+      "_______________36f188f7_4e23_436f_8b35_6ff996e51daf": {
+        "enabled": true,
+        "groups": []
+      },
+      "_______________5792d481_b6fc_4570_88c2_4a55c2635308": {
+        "enabled": true,
+        "groups": []
+      },
+      "_______________9c2c729b_d698_406a_b532_2e167baf6cc9": {
+        "enabled": true,
+        "groups": []
+      },
+      "_______________9e1e7e27_2231_4b96_b445_8a4416df2532": {
+        "enabled": true,
+        "groups": []
+      },
+      "_______________ca671cbd_c9d9_4e5d_8921_df337fd1a2f5": {
+        "enabled": true,
+        "groups": []
+      },
+      "_______________d7593daf_2032_4d98_b4ca_4053312f7527": {
+        "enabled": true,
+        "groups": []
+      },
+      "_______________e8b826a8_b07e_45ec_a033_77be31df0a7a": {
+        "enabled": true,
+        "groups": []
+      },
+      "_______________e8bf789d_7bcf_4709_bd43_870b3aa7d2a2": {
+        "enabled": true,
+        "groups": []
+      },
+      "building_d74df08a_6dfe_4dfe_9a5b_ed565de53edb": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:8ea417ee": {
+        "enabled": true,
+        "groups": []
+      },
+      "lab1_98f87034_bf95_400c_a851_f76b32c5240a": {
+        "enabled": true,
+        "groups": []
+      },
+      "lab1_e341defb_4478_494c_9e2b_0e03dff8d9e3": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 3,
+      "layerId": "_______________24452080_a7a6_40bb_a7ee_3927452c7ac3",
+      "name": "highway",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "_______________9c2c729b_d698_406a_b532_2e167baf6cc9",
+      "name": "highway",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Visible": true,
+        "comboBox_ObjectType": "Line",
+        "comboBox_altitudeMode": "OUTPUT_c87dda8e_f0f2_4d32_afa5_366c18764690",
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "lineEdit_Name": "",
+        "mtlWidget0": {
+          "checkBox": false,
+          "type": 9
+        },
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true
+      },
+      "visible": true
+    },
+    {
+      "geomType": 1,
+      "layerId": "_______________36f188f7_4e23_436f_8b35_6ff996e51daf",
+      "name": "highway",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "1_f07360ed_1939_45a6_ad92_9cf4a8d89ef9",
+      "name": "1",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Extruded",
+        "comboBox_altitudeMode": "OUTPUT_c87dda8e_f0f2_4d32_afa5_366c18764690",
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": 2,
+          "comboText": "Random",
+          "editText": "None",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"full_id\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {
+          "comboData": null,
+          "comboText": "Expression",
+          "editText": "50",
+          "type": 1
+        },
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "slider_FontSize": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 3,
+      "layerId": "_______________2f9229ea_b943_444e_b408_b027d83ad0d1",
+      "name": "building",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Polygon",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"full_id\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "slider_FontSize": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "22_479a4caf_e588_43fd_8664_f1e961cfe32c",
+      "name": "22",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "2______db312dca_15b3_4ccb_a5dc_cf470e5df583",
+      "name": "2 норм",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "_______________5792d481_b6fc_4570_88c2_4a55c2635308",
+      "name": "building",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "building_d74df08a_6dfe_4dfe_9a5b_ed565de53edb",
+      "name": "Матвеева Эмекова лаба 1.gpkg 2 — building",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "lab1_98f87034_bf95_400c_a851_f76b32c5240a",
+      "name": "Матвеева Эмекова лаба 1 — lab1",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "33_6c2193d5_0be1_4fb8_a77d_6b7208446b1b",
+      "name": "33",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "3______044d333b_e202_473a_aab7_04f28956669d",
+      "name": "3 норм",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "lab1_e341defb_4478_494c_9e2b_0e03dff8d9e3",
+      "name": "lab1",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "4______15ce6ad5_c85f_477a_9b78_3c9fbd441da2",
+      "name": "4 норм",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "_______________1375fc15_557f_4120_ab5f_1f0fd58a1675",
+      "name": "highway",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "_______________9e1e7e27_2231_4b96_b445_8a4416df2532",
+      "name": "highway",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Visible": true,
+        "comboBox_ObjectType": "Line",
+        "comboBox_altitudeMode": "OUTPUT_c87dda8e_f0f2_4d32_afa5_366c18764690",
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "lineEdit_Name": "",
+        "mtlWidget0": {
+          "checkBox": false,
+          "type": 9
+        },
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true
+      },
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "_______________ca671cbd_c9d9_4e5d_8921_df337fd1a2f5",
+      "name": "highway",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "_______________d7593daf_2032_4d98_b4ca_4053312f7527",
+      "name": "highway",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "_______________e8bf789d_7bcf_4709_bd43_870b3aa7d2a2",
+      "name": "highway",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Visible": true,
+        "comboBox_ObjectType": "Line",
+        "comboBox_altitudeMode": "OUTPUT_c87dda8e_f0f2_4d32_afa5_366c18764690",
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "lineEdit_Name": "",
+        "mtlWidget0": {
+          "checkBox": false,
+          "type": 9
+        },
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true
+      },
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "5______fd7b8a72_f871_49cb_a3c6_83e3d64c3e76",
+      "name": "5 норм",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "_______________e8b826a8_b07e_45ec_a033_77be31df0a7a",
+      "name": "highway",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "6______e24dda53_96c9_48d2_b9f5_b186bdbac67d",
+      "name": "6 норм",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "1_f07360ed_1939_45a6_ad92_9cf4a8d89ef9",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "5d8d113c",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "5d8d113c",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "OUTPUT_c87dda8e_f0f2_4d32_afa5_366c18764690",
+      "name": "AW3D30[Memory]",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "1_f07360ed_1939_45a6_ad92_9cf4a8d89ef9",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "e2da3645",
+            "name": "map (canvas)",
+            "properties": {
+              "checkBox_Shading": true,
+              "checkBox_TransparentBackground": false,
+              "comboBox_TextureSize": "1024",
+              "radioButton_PNG": true,
+              "spinBox_Opacity": 100
+            },
+            "type": 0
+          }
+        ],
+        "mtlId": "e2da3645",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:8ea417ee",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "SCENE": {
+    "checkBox_FixAspectRatio": true,
+    "checkBox_Outline": false,
+    "colorButton_Color": [
+      0,
+      0,
+      0,
+      255
+    ],
+    "colorButton_Fog": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "comboBox_MaterialType": 0,
+    "comboBox_xyShift": true,
+    "groupBox_Fog": false,
+    "lineEdit_CenterX": "9195863.17478044",
+    "lineEdit_CenterY": "7323853.205118796",
+    "lineEdit_Height": "6171.832080576569",
+    "lineEdit_Rotation": "0",
+    "lineEdit_Width": "6171.832080576569",
+    "lineEdit_zFactor": "1.0",
+    "slider_Fog": 41
+  },
+  "Version": 20703
+}
